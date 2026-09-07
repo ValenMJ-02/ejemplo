@@ -1,1 +1,2 @@
 se agrega una linea de texto
+Cambio realizado por Jose para el Reto 2
